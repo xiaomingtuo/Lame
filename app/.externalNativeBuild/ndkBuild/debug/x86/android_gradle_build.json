@@ -1,0 +1,113 @@
+{
+  "buildFiles": [
+    "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Android.mk",
+    "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\android-sdk-windows\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDEBUG\u003d1 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dE:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj NDK_LIBS_OUT\u003dE:\\wokespace\\JNIDemo\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "lame-debug-x86": {
+      "buildCommand": "D:\\android-sdk-windows\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDEBUG\u003d1 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dE:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj NDK_LIBS_OUT\u003dE:\\wokespace\\JNIDemo\\app\\build\\intermediates\\ndkBuild\\debug\\lib E:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj/local/x86/liblame.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "lame",
+      "files": [
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\com_tcl_mie_jnidemo_MainActivity.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\VbrTag.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\bitstream.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\encoder.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\fft.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\gain_analysis.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\id3tag.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\lame.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\mpglib_interface.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\newmdct.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\presets.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\psymodel.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\quantize.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\quantize_pvt.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\reservoir.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\set_get.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\tables.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\takehiro.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\util.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\vbrquantize.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\version.c",
+          "flags": "\"-ffunction-sections\" \"-funwind-tables\" \"-no-canonical-prefixes\" \"-g\" \"-fstack-protector-strong\" \"-O2\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-x86/usr/include\""
+        }
+      ],
+      "output": "E:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj\\local\\x86\\liblame.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cCompilerExecutable": "D:\\android-sdk-windows\\ndk-bundle\\build\\..\\toolchains\\x86-4.9\\prebuilt\\windows-x86_64\\bin\\i686-linux-android-gcc"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

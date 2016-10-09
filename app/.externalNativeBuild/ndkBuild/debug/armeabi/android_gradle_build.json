@@ -1,0 +1,113 @@
+{
+  "buildFiles": [
+    "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Android.mk",
+    "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\android-sdk-windows\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDEBUG\u003d1 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dE:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj NDK_LIBS_OUT\u003dE:\\wokespace\\JNIDemo\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "lame-debug-armeabi": {
+      "buildCommand": "D:\\android-sdk-windows\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDEBUG\u003d1 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dE:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj NDK_LIBS_OUT\u003dE:\\wokespace\\JNIDemo\\app\\build\\intermediates\\ndkBuild\\debug\\lib E:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj/local/armeabi/liblame.so",
+      "toolchain": "toolchain-armeabi",
+      "abi": "armeabi",
+      "artifactName": "lame",
+      "files": [
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\com_tcl_mie_jnidemo_MainActivity.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\VbrTag.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\bitstream.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\encoder.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\fft.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\gain_analysis.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\id3tag.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\lame.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\mpglib_interface.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\newmdct.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\presets.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\psymodel.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\quantize.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\quantize_pvt.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\reservoir.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\set_get.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\tables.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\takehiro.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\util.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\vbrquantize.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        },
+        {
+          "src": "E:\\wokespace\\JNIDemo\\app\\src\\main\\jni\\lame\\version.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/wokespace/JNIDemo/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DSTDC_HEADERS\" \"-isystem\" \"D:/android-sdk-windows/ndk-bundle/build//../platforms/android-17/arch-arm/usr/include\""
+        }
+      ],
+      "output": "E:\\wokespace\\JNIDemo\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj\\local\\armeabi\\liblame.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi": {
+      "cCompilerExecutable": "D:\\android-sdk-windows\\ndk-bundle\\build\\..\\toolchains\\arm-linux-androideabi-4.9\\prebuilt\\windows-x86_64\\bin\\arm-linux-androideabi-gcc"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
