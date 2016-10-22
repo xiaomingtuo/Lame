@@ -3,7 +3,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := lame
-LOCAL_CLFAGS := -std=c99
+LOCAL_CFLAGS := -std=c99
 LOCAL_LDLIBS := -llog
 
 LOCAL_SRC_FILES := \
