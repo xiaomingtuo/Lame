@@ -12,6 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.File;
@@ -57,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         pd = new ProgressDialog(this);
+        ((TextView) this.findViewById(R.id.version)).setText("LameVersion: " + getLameVersion());
     }
 
 
