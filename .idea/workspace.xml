@@ -10,8 +10,249 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="790a9bbd-5329-4eee-853f-240d1602b33e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/com_tcl_mie_jnidemo_MainActivity.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/com_tcl_mie_jnidemo_MainActivity.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/VbrTag.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/VbrTag.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/bitstream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/bitstream.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/encoder.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/encoder.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/fft.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/fft.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/gain_analysis.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/gain_analysis.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/id3tag.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/id3tag.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/lame.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/lame.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/mpglib_interface.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/mpglib_interface.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/newmdct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/newmdct.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/presets.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/presets.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/psymodel.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/psymodel.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/quantize.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/quantize.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/quantize_pvt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/quantize_pvt.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/reservoir.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/reservoir.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/set_get.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/set_get.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/tables.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/tables.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/takehiro.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/takehiro.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/util.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/vbrquantize.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/vbrquantize.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/version.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi-v7a/objs/lame/lame/version.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/com_tcl_mie_jnidemo_MainActivity.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/com_tcl_mie_jnidemo_MainActivity.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/VbrTag.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/VbrTag.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/bitstream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/bitstream.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/encoder.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/encoder.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/fft.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/fft.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/gain_analysis.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/gain_analysis.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/id3tag.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/id3tag.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/lame.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/lame.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/mpglib_interface.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/mpglib_interface.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/newmdct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/newmdct.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/presets.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/presets.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/psymodel.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/psymodel.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/quantize.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/quantize.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/quantize_pvt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/quantize_pvt.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/reservoir.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/reservoir.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/set_get.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/set_get.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/tables.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/tables.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/takehiro.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/takehiro.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/util.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/vbrquantize.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/vbrquantize.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/version.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/armeabi/objs/lame/lame/version.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/com_tcl_mie_jnidemo_MainActivity.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/com_tcl_mie_jnidemo_MainActivity.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/VbrTag.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/VbrTag.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/bitstream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/bitstream.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/encoder.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/encoder.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/fft.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/fft.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/gain_analysis.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/gain_analysis.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/id3tag.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/id3tag.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/lame.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/lame.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/mpglib_interface.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/mpglib_interface.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/newmdct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/newmdct.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/presets.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/presets.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/psymodel.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/psymodel.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/quantize.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/quantize.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/quantize_pvt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/quantize_pvt.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/reservoir.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/reservoir.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/set_get.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/set_get.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/tables.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/tables.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/takehiro.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/takehiro.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/util.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/vbrquantize.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/vbrquantize.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/version.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/obj/local/x86/objs/lame/lame/version.o.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/tcl/mie/jnidemo/ExampleInstrumentedTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/tcl/mie/jnidemo/test/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/tcl/mie/jnidemo/test/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/tcl/mie/jnidemo/test/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/tcl/mie/jnidemo/test/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$mipmap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tcl/mie/jnidemo/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/test/debug/com/tcl/mie/jnidemo/ExampleUnitTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/r1YhdSnM21r6qgY_rGPJwLSef3o=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/arm64-v8a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/armeabi-v7a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/armeabi/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/x86_64/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f9d17e4baa9252c8929e867979b192ca45097c73.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_c530915aef362fb9329bb21ce3ff497e19581107.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_edbe5b969c371800563d7e82f3612c64dc939d87.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_88e31877165d242d979b45d0726150ee1a3b6f2b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_3ed7ce64e1b92fc3adb918fe2c9710fed4260a9d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_d0b3170f6792b2a887edb7ce760169b71df4f0e1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6fa9d219412d42fd16071f6b7127e334e3680a1e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86_64/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/arm64-v8a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86_64/liblame.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/android_gradle_build.json" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/android_gradle_build.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_command.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_command.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi/android_gradle_build.json" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi/android_gradle_build.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi/ndkBuild_build_command.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi/ndkBuild_build_command.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/armeabi/ndkBuild_build_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/x86/android_gradle_build.json" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/x86/android_gradle_build.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/x86/ndkBuild_build_command.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/x86/ndkBuild_build_command.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/x86/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/debug/x86/ndkBuild_build_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi-v7a/android_gradle_build.json" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi-v7a/android_gradle_build.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_command.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_command.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi/android_gradle_build.json" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi/android_gradle_build.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi/ndkBuild_build_command.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi/ndkBuild_build_command.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/armeabi/ndkBuild_build_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/x86/android_gradle_build.json" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/x86/android_gradle_build.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/x86/ndkBuild_build_command.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/x86/ndkBuild_build_command.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/x86/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/app/.externalNativeBuild/ndkBuild/release/x86/ndkBuild_build_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c" afterPath="$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c" />
     </list>
     <ignored path="JNIDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +288,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tcl/mie/jnidemo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="1083">
               <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,7 +297,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="646">
@@ -91,11 +332,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="com_tcl_mie_jnidemo_MainActivity.c" pinned="false" current-in-tab="false">
+      <file leaf-file-name="com_tcl_mie_jnidemo_MainActivity.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="100" column="27" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="27" />
+            <state relative-caret-position="444">
+              <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -1879,9 +2120,10 @@
         <option value="$PROJECT_DIR$/app/src/main/jni/lame.c" />
         <option value="$PROJECT_DIR$/app/src/main/jni/Android.mk" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/tcl/mie/jnidemo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/app.iml" />
+        <option value="$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c" />
       </list>
     </option>
   </component>
@@ -1917,11 +2159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2022,6 +2259,11 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -2038,6 +2280,22 @@
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="DEBUGGER_ID" value="Auto" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="170" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="169" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="962" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="170" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="169" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="962" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -2384,7 +2642,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2404,11 +2662,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38390502" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38309115" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24966533" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2625,31 +2884,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="100" column="27" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#249#261#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2666,7 +2905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tcl/mie/jnidemo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="1083">
           <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2679,6 +2918,26 @@
         <state relative-caret-position="646">
           <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#249#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/jni/com_tcl_mie_jnidemo_MainActivity.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

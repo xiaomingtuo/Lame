@@ -36,6 +36,33 @@ char *Jstring2CStr(JNIEnv *env, jstring jstr) {
 }
 
 int flag = 0;
+
+/**
+ * 调用java代码 更新程序的进度条
+ */
+void publishJavaProgress(JNIEnv *env, jobject obj, jint progress) {
+    // 1.找到java的MainActivity的class
+    jclass clazz = (*env)->FindClass(env, "com/tcl/mie/jnidemo/MainActivity");
+    if (clazz == 0) {
+        LOGI("can't find class");
+    }
+    LOGI(" find class");
+
+    //2 找到class 里面的方法定义
+    jmethodID methodid = (*env)->GetMethodID(env, clazz, "setConvertProgress", "(I)V");
+    if (methodid == 0) {
+        LOGI("can't find methodid");
+    }
+    LOGI(" find methodid");
+
+    //3 .调用方法
+    (*env)->CallVoidMethod(env, obj, methodid, progress);
+
+    //4 . 释放引用资源
+    (*env)->DeleteLocalRef(env, clazz);
+
+}
+
 /**
  * wav转换mp3
  */
@@ -93,32 +120,6 @@ JNIEXPORT void JNICALL Java_com_tcl_mie_jnidemo_MainActivity_convertmp3
     lame_close(lame);
     fclose(fwav);
     fclose(fmp3);
-}
-
-/**
- * 调用java代码 更新程序的进度条
- */
-void publishJavaProgress(JNIEnv *env, jobject obj, jint progress) {
-    // 1.找到java的MainActivity的class
-    jclass clazz = (*env)->FindClass(env, "com/tcl/mie/jnidemo/MainActivity");
-    if (clazz == 0) {
-        LOGI("can't find class");
-    }
-    LOGI(" find class");
-
-    //2 找到class 里面的方法定义
-    jmethodID methodid = (*env)->GetMethodID(env, clazz, "setConvertProgress", "(I)V");
-    if (methodid == 0) {
-        LOGI("can't find methodid");
-    }
-    LOGI(" find methodid");
-
-    //3 .调用方法
-    (*env)->CallVoidMethod(env, obj, methodid, progress);
-
-    //4 . 释放引用资源
-    (*env)->DeleteLocalRef(env, clazz);
-
 }
 
 /**
